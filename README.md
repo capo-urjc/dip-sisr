@@ -35,34 +35,34 @@ The project structure must be as follows:
 
 dip-sisr/
 
-├── DATA/ 
-│   └── KODAK/ 
-│       └── 1.png 
-├── datasets/ 
-│   └── NaturalColor.py 
-├── folder_structure.py 
-├── LICENSE 
-├── losses/ 
-│   └── functions.py 
-├── main.py 
-├── models/ 
-│   ├── common.py 
-│   ├── downsampler.py 
-│   ├── resnet.py 
-│   ├── skip.py 
-│   ├── texture_nets.py 
-│   └── unet.py 
-├── README.md 
-└── utils/ 
-    ├── cast_to_precision.py 
-    ├── common_utils.py 
-    ├── dip_utils.py 
-    ├── normalize.py 
-    ├── os_utils.py 
-    ├── os_utils_dip.py 
-    ├── quality_measures.py 
-    ├── results_saver.py 
-    └── torch_utils.py 
+├── DATA/  
+│   └── KODAK/  
+│       └── 1.png  
+├── datasets/  
+│   └── NaturalColor.py  
+├── folder_structure.py  
+├── LICENSE  
+├── losses/  
+│   └── functions.py  
+├── main.py  
+├── models/  
+│   ├── common.py  
+│   ├── downsampler.py  
+│   ├── resnet.py  
+│   ├── skip.py  
+│   ├── texture_nets.py  
+│   └── unet.py  
+├── README.md  
+└── utils/  
+    ├── cast_to_precision.py  
+    ├── common_utils.py  
+    ├── dip_utils.py  
+    ├── normalize.py  
+    ├── os_utils.py  
+    ├── os_utils_dip.py  
+    ├── quality_measures.py  
+    ├── results_saver.py  
+    └── torch_utils.py  
 
 
 ## Usage
