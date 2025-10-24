@@ -1,4 +1,7 @@
 <img src="https://github.com/user-attachments/assets/53b39e41-0230-4d47-a404-f2daa143b3cd" alt="URJCLOG JPG-removebg-preview" width="20%">
+<a href="https://onlinelibrary.wiley.com/doi/10.1111/exsy.70142" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Paper-DOI-blue?style=for-the-badge&logo=wiley" alt="View Paper DOI">
+  </a>
 
 
 ## Table of contents
@@ -72,6 +75,19 @@ To run this model, the file
    ```
 
 must be executed.  
+
+## Citation
+```bibtex
+@article{abalo2025unsupervised,
+  title={Unsupervised Deep Image Prior-Based Neural Networks for Single Image Super-Resolution: Comparative Analysis and Modelling Guidelines},
+  author={Abalo-Garc{\'\i}a, Alejandra and Ram{\'\i}rez, Iv{\'a}n and Schiavi, Emanuele},
+  journal={Expert Systems},
+  volume={42},
+  number={11},
+  pages={e70142},
+  year={2025},
+  publisher={Wiley Online Library}
+}
 
 
 
